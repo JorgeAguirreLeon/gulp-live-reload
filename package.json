@@ -1,0 +1,17 @@
+{
+  "name": "gulp-live-reload",
+  "version": "1.0.0",
+  "description": "Reacting to changes fast",
+  "scripts": {
+    "start": "gulp server"
+  },
+  "keywords": [
+    "gulp", "livereload"
+  ],
+  "author": "Jorge Aguirre",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-server-livereload": "^1.9.2"
+  }
+}
